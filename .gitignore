@@ -1,3 +1,5 @@
-node_module/
+node_modules/
 aws_forms/
+aws/
 config.js
+test.txt
