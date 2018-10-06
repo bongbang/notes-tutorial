@@ -3,3 +3,4 @@ aws_forms/
 aws/
 config.js
 test.txt
+*.swp
